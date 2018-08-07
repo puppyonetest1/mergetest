@@ -3,5 +3,5 @@ Git is a free software distributed under the GPL. (fix bug)
 Git has a mutable index called stage.
 Git tracks changes.
 Creating a new branch is quick and simple.
-a new branch 'dev3'
+a new branch 'dev3' dev3
 
